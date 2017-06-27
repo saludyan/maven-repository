@@ -13,6 +13,7 @@
         <module>config</module>
         <module>security</module>
         <module>core</module>
+        <module>web</module>
     </modules>
 
 
