@@ -9,11 +9,11 @@
     <packaging>pom</packaging>
     <version>1.0.0</version>
     <modules>
-        <module>component</module>
-        <module>config</module>
-        <module>security</module>
-        <module>core</module>
-        <module>web</module>
+        <module>framework-component</module>
+        <module>framework-config</module>
+        <module>framework-security</module>
+        <module>framework-core</module>
+        <module>framework-web</module>
     </modules>
 
 
