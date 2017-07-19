@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.superone.framework</groupId>
-  <artifactId>framework-security</artifactId>
+  <artifactId>framework-multi-datasource</artifactId>
   <versioning>
     <release>1.0.0</release>
     <versions>

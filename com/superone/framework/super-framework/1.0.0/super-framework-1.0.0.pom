@@ -10,10 +10,10 @@
     <version>1.0.0</version>
     <modules>
         <module>framework-component</module>
-        <module>framework-config</module>
         <module>framework-security</module>
         <module>framework-core</module>
         <module>framework-web</module>
+        <module>framework-multiple-datasource</module>
     </modules>
 
 

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>super-framework</artifactId>
+        <groupId>com.superone.framework</groupId>
+        <version>1.0.0</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>framework-multi-datasource</artifactId>
+    <version>1.0.0</version>
+
+
+    <dependencies>
+        <dependency>
+            <groupId>com.superone.framework</groupId>
+            <artifactId>framework-component</artifactId>
+            <version>1.0.1</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-jta-atomikos</artifactId>
+        </dependency>
+
+        <!-- mybatis分页插件 -->
+        <dependency>
+            <groupId>com.github.pagehelper</groupId>
+            <artifactId>pagehelper</artifactId>
+            <version>4.1.3</version>
+        </dependency>
+    </dependencies>
+
+</project>
