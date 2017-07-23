@@ -50,6 +50,12 @@
             <artifactId>zkclient</artifactId>
             <version>${com.github.sgroschupf.zkclient.version}</version>
         </dependency>
+
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-autoconfigure</artifactId>
+            <!--<version>1.5.1.RELEASE</version>-->
+        </dependency>
     </dependencies>
 
 </project>
